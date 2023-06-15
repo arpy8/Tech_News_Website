@@ -4,7 +4,7 @@ Experience the convenience of exploring technology news at your fingertips with 
 
 This is a simple tech news website built using Streamlit, requiring just under 5 lines of code. It provides a user-friendly interface to browse and read the latest technology news. Stay up-to-date with the rapidly evolving tech industry by exploring a curated collection of news articles from various sources.
 
-[Link to the website](https://todayintech.streamlit.app)
+[Link to the website](https://techtoday.streamlit.app)
 
 ## Installation
 1. Clone this repository: `git clone github.com/arpy8/tech-news-website`
