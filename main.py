@@ -6,8 +6,7 @@ from datetime import datetime
 from streamlit.runtime.media_file_storage import MediaFileStorageError
 
 current_date = datetime.now().strftime("%Y-%m-%d")
-# api_key = os.getenv("NEWS_API")
-api_key = st.secrets("NEWS_API")
+api_key = st.secrets["NEWS_API"]
 keyword = "india"
 
 
