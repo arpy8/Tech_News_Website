@@ -2,7 +2,7 @@
 
 Experience the convenience of exploring technology news at your fingertips with this streamlined tech news website. Keep yourself informed, inspired, and up-to-date with the latest happenings in the tech world.
 
-This is a simple tech news website built using Streamlit, requiring just under 10 lines of code. It provides a user-friendly interface to browse and read the latest technology news. Stay up-to-date with the rapidly evolving tech industry by exploring a curated collection of news articles from various sources.
+This is a simple tech news website built using Streamlit, requiring just under 5 lines of code. It provides a user-friendly interface to browse and read the latest technology news. Stay up-to-date with the rapidly evolving tech industry by exploring a curated collection of news articles from various sources.
 
 [Link to the website](https://todayintech.streamlit.app)
 
