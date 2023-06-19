@@ -24,4 +24,4 @@ This is a simple tech news website built using Streamlit, requiring just under j
 - Python 3.11
 
 ## Author
-- [@arpy8](https://github.com/arpy8)
+[@arpy8](https://github.com/arpy8)
