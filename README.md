@@ -1,6 +1,6 @@
-# Dynamic Tech News Website under just 5 lines of code !
+# Dynamic Tech News Website built under just 5 lines of code !
 
-This is a simple tech news website built using Streamlit, requiring just under just 5 lines of code. It provides a user-friendly interface to browse and read the latest technology news. Stay up-to-date with the rapidly evolving tech industry by exploring a curated collection of news articles from various sources.
+This is a simple tech news website built using Streamlit, made under just 5 lines of code. It provides a user-friendly interface to browse and read the latest technology news. Stay up-to-date with the rapidly evolving tech industry by exploring a curated collection of news articles from various sources.
 
 [Link to the website](https://techtoday.streamlit.app)
 
