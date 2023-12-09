@@ -5,8 +5,8 @@ This is a simple tech news website built using Streamlit, made under just 5 line
 [Link to the website](https://techtoday.streamlit.app)
 
 ## Installation
-1. Clone this repository: `git clone github.com/arpy8/tech-news-website`
-2. Navigate to the project directory: `cd tech-news-website`
+1. Clone this repository: `git clone github.com/arpy8/Tech_News_Website`
+2. Navigate to the project directory: `cd Tech_News_Website`
 3. Install the required dependencies: `pip install streamlit`
 
 ## Usage
@@ -16,7 +16,7 @@ This is a simple tech news website built using Streamlit, made under just 5 line
 4. Click on a news article to read the full details.
 
 ## Customization
-- Customize the layout and design by editing the `app.py` file.
+- Customize the layout and design by editing the `main.py` file.
 - You can also integrate additional features and APIs to enhance the website's functionality.
 
 ## Dependencies
