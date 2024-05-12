@@ -1,6 +1,6 @@
-# Dynamic Tech News Website built under just 4 lines of code !
+# Dynamic Tech News Website built under just a single line of code !
 
-This is a simple tech news website built using Streamlit, made under just 4 lines of code. It provides a user-friendly interface to browse and read the latest technology news. Stay up-to-date with the rapidly evolving tech industry by exploring a curated collection of news articles from various sources.
+A simple tech news website built using Streamlit under just a single line of code. 
 
 [Link to the website](https://techtoday.streamlit.app)
 
@@ -13,7 +13,7 @@ This is a simple tech news website built using Streamlit, made under just 4 line
 1. Run the Streamlit app: `streamlit run main.py`
 2. Access the website on your browser at `http://localhost:8501`
 3. Browse the latest tech news.
-4. Click on a news article to read the full details.
+a single. Click on a news article to read the full details.
 
 ## Customization
 - Customize the layout and design by editing the `main.py` file.
@@ -24,4 +24,4 @@ This is a simple tech news website built using Streamlit, made under just 4 line
 - Python 3.11
 
 ## Author
-[@arpy8](https://github.com/arpy8)
+[@arpy8](https://github.com/arpy8)  
