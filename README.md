@@ -2,7 +2,7 @@
 
 A simple tech news website built using Streamlit under just a single line of code. 
 
-[Link to the website](https://techtoday.streamlit.app)
+[Link to the website](https://technewss.streamlit.app/)
 
 ## Installation
 1. Clone this repository: `git clone github.com/arpy8/Tech_News_Website`
